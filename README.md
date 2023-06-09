@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @bsnga
-- 👀 I’m interested in python, java and C++
-- 🌱 I’m currently learning android app development
+- 👋 Hi, I’m @BusayoSamuel
+- 👀 I’m interested in python, html, css, javascript and Flutter/Dart
+- 🌱 I’m currently on the path to becoming a full stack developer
 - 💞️ I’m looking to collaborate on anything software engineering
 - 📫 How to reach me - email: busayosalisu@gmail.com
 
