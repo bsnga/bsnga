@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BusayoSamuel
-- 👀 I’m interested in python, html, css, javascript and Flutter/Dart
-- 🌱 I’m currently on the path to becoming a full stack developer
-- 💞️ I’m looking to collaborate on anything software engineering
+- 👀 I’m proficient in python, html, css, javascript and Flutter/Dart
+- 🌱 I aspire to become a full stack developer
+- 💞️ Looking to collaborate on any web/mobile app development projects
 - 📫 How to reach me - email: busayosalisu@gmail.com
 
 <!---
