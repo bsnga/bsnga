@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BusayoSamuel
-- 👀 I’m proficient in Python, Flutter/Dart and React.js
+- 👀 I’m proficient in Python/Flask, Flutter/Dart and React.js
 - 🌱 I aspire to become a Full Stack developer
 - 💞️ Looking to collaborate on any web/mobile app development projects
 - 📫 How to reach me - email: busayosalisu@gmail.com
